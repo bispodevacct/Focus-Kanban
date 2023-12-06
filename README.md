@@ -1,1 +1,1 @@
-# Kanban-Focus
+# Focus Kanban
